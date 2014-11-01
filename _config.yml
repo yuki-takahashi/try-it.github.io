@@ -87,4 +87,4 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/yuki-takahashi/try-it.github.io.git
-  branch: master
+  branch: gh-pages
